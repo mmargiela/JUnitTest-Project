@@ -31,7 +31,7 @@ public class ShoppingCartTest {
         cart = new ShoppingCart();
         System.out.println("Executed before each test method in this class.");
     }
-//red
+//redtry
     @After
     public void tearDown() throws Exception {
         cart = null;
